@@ -1,0 +1,30 @@
+{
+    "username": "thao",
+    "password": "password",
+    "firstname": "Thao",
+    "lastname": "Pham",
+    "admin" :true
+}
+
+login info
+admin
+{
+    "username": "username",
+    "password": "password"
+}
+regular users
+{
+    
+}
+{
+    "username" :"username",
+    "password": "password"
+}
+
+mongo
+use destination 
+db.users.find().pretty()
+
+posman: 
+http://localhost:3000/users/signup
+http://localhost:3000/users/login
